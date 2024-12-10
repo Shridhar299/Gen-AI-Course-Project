@@ -45,5 +45,3 @@ This project, implemented in a Jupyter Notebook, explores concepts and practices
 - Libraries: TensorFlow, NumPy, Pandas, Matplotlib, Seaborn
 
 ---
-
-For further details or issues, refer to comments within the notebook or contact the author.
