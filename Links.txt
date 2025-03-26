@@ -1,0 +1,7 @@
+\\ad.infosys.com\storage\GEC\E&R\Assessment\EXTERNAL\EVERYONE\FP-JAVA
+
+http://localhost:8500/ui/dc1/services
+
+consul agent -server -bootstrap-expect=1 -data-dir=C:\consul -ui -bind=10.207.4.43
+
+https://youtu.be/rRAVqEFnT1s?si=eCk2rHg9AxrnHhfj
