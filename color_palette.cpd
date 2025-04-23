@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorPalette>
+    <Band>
+        <ValueRange>
+            <Min>0.0</Min>
+            <Max>1.25e-05</Max>
+            <Color>darkblue</Color>
+        </ValueRange>
+        <ValueRange>
+            <Min>1.25e-05</Min>
+            <Max>2.5e-05</Max>
+            <Color>blue</Color>
+        </ValueRange>
+        <ValueRange>
+            <Min>2.5e-05</Min>
+            <Max>5.0e-05</Max>
+            <Color>cyan</Color>
+        </ValueRange>
+        <ValueRange>
+            <Min>5.0e-05</Min>
+            <Max>6.25e-05</Max>
+            <Color>yellow</Color>
+        </ValueRange>
+        <ValueRange>
+            <Min>6.25e-05</Min>
+            <Max>8.75e-05</Max>
+            <Color>orange</Color>
+        </ValueRange>
+        <ValueRange>
+            <Min>8.75e-05</Min>
+            <Max>1.0e-04</Max>
+            <Color>red</Color>
+        </ValueRange>
+    </Band>
+</ColorPalette>
